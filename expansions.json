@@ -1,0 +1,46 @@
+[
+    {
+        "name": "River",
+        "icon": "icons/river.svg"
+    },
+    {
+        "name": "Abbot",
+        "icon": "icons/abbot.svg"
+    },
+    {
+        "name": "Inns & Cathedrals",
+        "icon": "icons/inns_cathedrals.svg"
+    },
+    {
+        "name": "Traders & Builders",
+        "icon": "icons/traders_builders.svg"
+    },
+    {
+        "name": "Circus & Artists",
+        "icon": "icons/circus_artists.svg"
+    },
+    {
+        "name": "Flying Machines",
+        "icon": "icons/flying_machines.svg"
+    },
+    {
+        "name": "Messengers",
+        "icon": "icons/messengers.svg"
+    },
+    {
+        "name": "Ferries",
+        "icon": "icons/ferries.svg"
+    },
+    {
+        "name": "Gold Mines",
+        "icon": "icons/mines.svg"
+    },
+    {
+        "name": "Mage & Witch",
+        "icon": "icons/mage_witch.svg"
+    },
+    {
+        "name": "Robbers",
+        "icon": "icons/robbers.svg"
+    }
+]
