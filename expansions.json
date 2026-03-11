@@ -42,5 +42,9 @@
     {
         "name": "Robbers",
         "icon": "icons/robbers.svg"
+    },
+    {
+        "name": "Crop Circles",
+        "icon": "icons/crop_circles.svg"
     }
 ]
