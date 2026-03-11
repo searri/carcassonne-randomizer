@@ -1,50 +1,62 @@
 [
     {
         "name": "River",
-        "icon": "icons/river.svg"
+        "icon": "icons/river.svg",
+        "time": 10
     },
     {
         "name": "Abbot",
-        "icon": "icons/abbot.svg"
+        "icon": "icons/abbot.svg",
+        "time": 5
     },
     {
         "name": "Inns & Cathedrals",
-        "icon": "icons/inns_cathedrals.svg"
+        "icon": "icons/inns_cathedrals.svg",
+        "time": 25
     },
     {
         "name": "Traders & Builders",
-        "icon": "icons/traders_builders.svg"
+        "icon": "icons/traders_builders.svg",
+        "time": 35
     },
     {
         "name": "Circus & Artists",
-        "icon": "icons/circus_artists.svg"
+        "icon": "icons/circus_artists.svg",
+        "time": 35
     },
     {
         "name": "Flying Machines",
-        "icon": "icons/flying_machines.svg"
+        "icon": "icons/flying_machines.svg",
+        "time": 10
     },
     {
         "name": "Messengers",
-        "icon": "icons/messengers.svg"
+        "icon": "icons/messengers.svg",
+        "time": 15
     },
     {
         "name": "Ferries",
-        "icon": "icons/ferries.svg"
+        "icon": "icons/ferries.svg",
+        "time": 15
     },
     {
         "name": "Gold Mines",
-        "icon": "icons/mines.svg"
+        "icon": "icons/mines.svg",
+        "time": 10
     },
     {
         "name": "Mage & Witch",
-        "icon": "icons/mage_witch.svg"
+        "icon": "icons/mage_witch.svg",
+        "time": 10
     },
     {
         "name": "Robbers",
-        "icon": "icons/robbers.svg"
+        "icon": "icons/robbers.svg",
+        "time": 15
     },
     {
         "name": "Crop Circles",
-        "icon": "icons/crop_circles.svg"
+        "icon": "icons/crop_circles.svg",
+        "time": 10
     }
 ]
