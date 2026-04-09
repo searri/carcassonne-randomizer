@@ -58,5 +58,10 @@
         "name": "Crop Circles",
         "icon": "icons/crop_circles.svg",
         "time": 10
+    },
+    {
+        "name": "Towers and Thieves",
+        "icon": "icons/towers_thieves.svg",
+        "time": 20
     }
 ]
