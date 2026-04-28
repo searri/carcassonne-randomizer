@@ -17,7 +17,7 @@
     {
         "name": "Traders & Builders",
         "icon": "icons/traders_builders.svg",
-        "time": 35
+        "time": 30
     },
     {
         "name": "Circus & Artists",
@@ -32,7 +32,7 @@
     {
         "name": "Messengers",
         "icon": "icons/messengers.svg",
-        "time": 15
+        "time": 5
     },
     {
         "name": "Ferries",
