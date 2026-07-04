@@ -63,5 +63,10 @@
         "name": "Towers and Thieves",
         "icon": "icons/towers_thieves.svg",
         "time": 20
+    },
+    {
+        "name": "Messengers and Mayors",
+        "icon": "icons/messengers_mayors.svg",
+        "time": 20
     }
 ]
